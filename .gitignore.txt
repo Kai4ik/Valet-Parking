@@ -1,4 +1,0 @@
-Milestone3.sln
-Milestone3.vcxproj
-Milestone3.vcxproj.filters
-Milestone3.vcxproj.user
